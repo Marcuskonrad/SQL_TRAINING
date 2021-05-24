@@ -1,0 +1,1 @@
+This is a file to train the work with GITHUB with an SQL Tranings Sheet.
